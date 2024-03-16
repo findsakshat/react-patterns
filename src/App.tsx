@@ -3,7 +3,7 @@ import './App.css'
 
 export default function App() {
   return (
-    <main>
+    <main className='max-w-[900px] mx-auto p-4'>
       <CustomHookPatternExample />
     </main>
   )

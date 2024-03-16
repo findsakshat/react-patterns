@@ -5,8 +5,8 @@ export default function CustomHookPatternExample() {
 
   return (
     <div>
-      {/* <Bad /> */}
-      <Good />
+      <Bad />
+      {/* <Good /> */}
     </div>
   )
 }

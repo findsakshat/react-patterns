@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 
 type Posts = {
   title: string
+  body: string
 }
 
 export default function Bad() {
@@ -34,15 +35,38 @@ export default function Bad() {
   }, []);
 
   return (
-    <div>
+    <div className='max-w-[600px] mx-auto'>
+      <h3 className='text-[24px] mb-4 font-semibold'>Posts</h3>
+      {/* LOADING AND ERROR */}
       {loading && <p>Loading...</p>}
       {error && <p>Something went wrong</p>}
 
-      {posts && posts.length > 0 && posts.map((post, index) => (
-        <div key={index}>
-          {post.title}
-        </div>
-      ))}
+      {/* POSTS */}
+      <div>
+        {posts && posts.length > 0 && posts.map((post, index) => (
+          <Post key={index} title={post.body} />
+        ))}
+      </div>
+    </div>
+  )
+}
+
+type PostProps = {
+  title: string
+}
+
+function Post(props: PostProps) {
+  const { title } = props;
+
+  return (
+    <div className='p-4 rounded-md border mb-4 bg-white'>
+      <div>
+
+      </div>
+      <div>
+        <span className='font-medium'>loremuser</span>
+        <p>{title}</p>
+      </div>
     </div>
   )
 }
