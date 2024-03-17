@@ -29,7 +29,7 @@ function Post(props: PostProps) {
 
   return (
     <div className="border p-6 rounded-md shadow-sm mb-6">
-      <h4 className="text-[24px] font-semibold">{title}</h4>
+      <h4 className="text-[20px] font-semibold">{title}</h4>
       <p className="mt-2 text-gray-500">{description}</p>
       <div className="flex items-center justify-between mt-4">
         <div>{readTime}</div>
