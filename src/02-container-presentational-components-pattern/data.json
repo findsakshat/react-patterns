@@ -1,0 +1,162 @@
+[
+  {
+    "title": "10 Tips for Improving Your Productivity",
+    "description": "Discover effective strategies to boost your productivity and achieve your goals.",
+    "thumbnail": "https://example.com/thumbnail1.jpg",
+    "likes": 256,
+    "views": 1345,
+    "readTime": "5 mins"
+  },
+  {
+    "title": "The Power of Positive Thinking",
+    "description": "Learn how a positive mindset can transform your life and lead to greater success.",
+    "thumbnail": "https://example.com/thumbnail2.jpg",
+    "likes": 187,
+    "views": 987,
+    "readTime": "7 mins"
+  },
+  {
+    "title": "Mastering the Art of Time Management",
+    "description": "Unlock the secrets to effective time management and take control of your schedule.",
+    "thumbnail": "https://example.com/thumbnail3.jpg",
+    "likes": 312,
+    "views": 1568,
+    "readTime": "6 mins"
+  },
+  {
+    "title": "The Benefits of Regular Exercise",
+    "description": "Discover the numerous health benefits of incorporating regular exercise into your routine.",
+    "thumbnail": "https://example.com/thumbnail4.jpg",
+    "likes": 420,
+    "views": 2047,
+    "readTime": "8 mins"
+  },
+  {
+    "title": "Exploring Meditation Techniques",
+    "description": "Learn different meditation techniques to reduce stress and promote inner peace.",
+    "thumbnail": "https://example.com/thumbnail5.jpg",
+    "likes": 148,
+    "views": 754,
+    "readTime": "4 mins"
+  },
+  {
+    "title": "The Art of Effective Communication",
+    "description": "Enhance your communication skills and build stronger relationships with others.",
+    "thumbnail": "https://example.com/thumbnail6.jpg",
+    "likes": 273,
+    "views": 1236,
+    "readTime": "6 mins"
+  },
+  {
+    "title": "Beginner's Guide to Investing in Stocks",
+    "description": "Get started with stock market investing and grow your wealth over time.",
+    "thumbnail": "https://example.com/thumbnail7.jpg",
+    "likes": 189,
+    "views": 1025,
+    "readTime": "7 mins"
+  },
+  {
+    "title": "Tips for Creating Engaging Content",
+    "description": "Learn how to create compelling content that resonates with your audience.",
+    "thumbnail": "https://example.com/thumbnail8.jpg",
+    "likes": 325,
+    "views": 1789,
+    "readTime": "5 mins"
+  },
+  {
+    "title": "Stress Management Techniques for Busy Professionals",
+    "description": "Discover practical strategies to manage stress and maintain a healthy work-life balance.",
+    "thumbnail": "https://example.com/thumbnail9.jpg",
+    "likes": 237,
+    "views": 1324,
+    "readTime": "6 mins"
+  },
+  {
+    "title": "10 Healthy Habits for a Happier Life",
+    "description": "Learn simple yet powerful habits to improve your overall well-being and happiness.",
+    "thumbnail": "https://example.com/thumbnail10.jpg",
+    "likes": 388,
+    "views": 1965,
+    "readTime": "7 mins"
+  },
+  {
+    "title": "The Importance of Setting Goals",
+    "description": "Understand why setting goals is crucial for personal and professional growth.",
+    "thumbnail": "https://example.com/thumbnail11.jpg",
+    "likes": 297,
+    "views": 1456,
+    "readTime": "5 mins"
+  },
+  {
+    "title": "Effective Leadership Strategies",
+    "description": "Discover key leadership principles and strategies to inspire and motivate your team.",
+    "thumbnail": "https://example.com/thumbnail12.jpg",
+    "likes": 214,
+    "views": 1098,
+    "readTime": "8 mins"
+  },
+  {
+    "title": "Healthy Eating Habits for Better Nutrition",
+    "description": "Learn how to make healthier food choices and improve your overall nutrition.",
+    "thumbnail": "https://example.com/thumbnail13.jpg",
+    "likes": 342,
+    "views": 1667,
+    "readTime": "6 mins"
+  },
+  {
+    "title": "The Science of Happiness",
+    "description": "Explore the scientific research behind happiness and how to cultivate it in your life.",
+    "thumbnail": "https://example.com/thumbnail14.jpg",
+    "likes": 199,
+    "views": 1023,
+    "readTime": "7 mins"
+  },
+  {
+    "title": "Effective Study Tips for Students",
+    "description": "Discover proven study techniques to improve your academic performance and productivity.",
+    "thumbnail": "https://example.com/thumbnail15.jpg",
+    "likes": 276,
+    "views": 1345,
+    "readTime": "5 mins"
+  },
+  {
+    "title": "The Art of Self-Reflection",
+    "description": "Learn how self-reflection can lead to personal growth and self-improvement.",
+    "thumbnail": "https://example.com/thumbnail16.jpg",
+    "likes": 321,
+    "views": 1578,
+    "readTime": "6 mins"
+  },
+  {
+    "title": "Effective Parenting Techniques",
+    "description": "Discover strategies for raising happy, healthy, and well-adjusted children.",
+    "thumbnail": "https://example.com/thumbnail17.jpg",
+    "likes": 235,
+    "views": 1205,
+    "readTime": "8 mins"
+  },
+  {
+    "title": "The Benefits of Mindfulness Meditation",
+    "description": "Learn how mindfulness meditation can reduce stress and promote emotional well-being.",
+    "thumbnail": "https://example.com/thumbnail18.jpg",
+    "likes": 179,
+    "views": 945,
+    "readTime": "7 mins"
+  },
+  {
+    "title": "Effective Time Management Strategies for Students",
+    "description": "Discover time management tips specifically tailored for students to improve academic performance.",
+    "thumbnail": "https://example.com/thumbnail19.jpg",
+    "likes": 287,
+    "views": 1398,
+    "readTime": "6 mins"
+  },
+  {
+    "title": "10 Tips for Better Sleep",
+    "description": "Improve the quality of your sleep with these practical tips for a more restful night.",
+    "thumbnail": "https://example.com/thumbnail20.jpg",
+    "likes": 342,
+    "views": 1724,
+    "readTime": "5 mins"
+  }
+]
