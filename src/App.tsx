@@ -6,7 +6,7 @@ export default function App() {
   return (
     <main className='max-w-[900px] mx-auto p-4'>
       {/* <CustomHookPatternExample /> */}
-      {/* <CompoundComponentsPatternExample /> */}
+      <CompoundComponentsPatternExample />
     </main>
   )
 }
