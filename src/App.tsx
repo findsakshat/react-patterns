@@ -3,6 +3,7 @@ import CompoundComponentsPatternExample from './03-compound-components-pattern';
 import './App.css'
 import ContainerPresentationalPatternExample from './02-container-presentational-components-pattern';
 import ContextAPIPatternExample from './05-context-api-pattern';
+import ControlledAndUnControlledComponentPatternExample from './06-controlled-and-uncontrolled-components-pattern';
 
 export default function App() {
   return (
@@ -10,7 +11,8 @@ export default function App() {
       {/* <ContainerPresentationalPatternExample /> */}
       {/* <CustomHookPatternExample /> */}
       {/* <CompoundComponentsPatternExample /> */}
-      <ContextAPIPatternExample />
+      {/* <ContextAPIPatternExample /> */}
+      <ControlledAndUnControlledComponentPatternExample />
     </main>
   )
 }
