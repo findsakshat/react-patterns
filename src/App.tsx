@@ -4,6 +4,7 @@ import './App.css'
 import ContainerPresentationalPatternExample from './02-container-presentational-components-pattern';
 import ContextAPIPatternExample from './05-context-api-pattern';
 import ControlledAndUnControlledComponentPatternExample from './06-controlled-and-uncontrolled-components-pattern';
+import MultipleSelectDropdownBuild from './builds/multiselect-dropdown-build';
 
 export default function App() {
   return (
@@ -12,7 +13,10 @@ export default function App() {
       {/* <CustomHookPatternExample /> */}
       {/* <CompoundComponentsPatternExample /> */}
       {/* <ContextAPIPatternExample /> */}
-      <ControlledAndUnControlledComponentPatternExample />
+      {/* <ControlledAndUnControlledComponentPatternExample /> */}
+
+      {/* BUILDS */}
+      <MultipleSelectDropdownBuild />
     </main>
   )
 }
