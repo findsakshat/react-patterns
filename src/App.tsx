@@ -5,6 +5,7 @@ import ContainerPresentationalPatternExample from './02-container-presentational
 import ContextAPIPatternExample from './05-context-api-pattern';
 import ControlledAndUnControlledComponentPatternExample from './06-controlled-and-uncontrolled-components-pattern';
 import MultipleSelectDropdownBuild from './builds/multiselect-dropdown-build';
+import MultiLevelDirectoryStructureBuild from './builds/multi-level-directory-structure-build';
 
 export default function App() {
   return (
@@ -16,7 +17,8 @@ export default function App() {
       {/* <ControlledAndUnControlledComponentPatternExample /> */}
 
       {/* BUILDS */}
-      <MultipleSelectDropdownBuild />
+      {/* <MultipleSelectDropdownBuild /> */}
+      <MultiLevelDirectoryStructureBuild />
     </main>
   )
 }
